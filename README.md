@@ -5,6 +5,7 @@ Script para brute force em ss
 
     git clone https://github.com/nano-9/BruteSSH<br>
     cd BruteSSH<br>
+    chmod +x brutessh.py
     pip install -r requirements.txt
 
 # Uso:
