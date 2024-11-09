@@ -3,8 +3,8 @@ Script para brute force em ss
 
 # Istalação:
 
-    git clone https://github.com/nano-9/BruteSSH<br>
-    cd BruteSSH<br>
+    git clone https://github.com/nano-9/BruteSSH
+    cd BruteSSH
     chmod +x brutessh.py
     pip install -r requirements.txt
 
