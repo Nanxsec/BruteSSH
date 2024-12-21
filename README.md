@@ -1,7 +1,7 @@
 # BruteSSH
 ![Captura de tela de 2024-11-09 09-06-19](https://github.com/user-attachments/assets/731a5e71-32e0-4f4e-a607-8c1598cee4c0)
 
-Script para brute force em ss
+Script para brute force em ssh
 
 # Istalação:
 
