@@ -80,7 +80,7 @@ if host_ip_dns and host_tports:
 					password_sh = credenciais[1].strip()
 					futures.append(executor.submit(tentar_login, host_ip_dns, host_tports, username_sh, password_sh))
 
-				# Aguarda resultados e interrompe cedo se necessário
+
 				for future in as_completed(futures):
 					if found_event.is_set():
 						break
